@@ -9,7 +9,7 @@
 .submitButton {
   padding: 10px;
   font-size: 16px;
-  background-color: #4caf50;
+  background-color: green;
   color: white;
   border: none;
   border-radius: 5px;
@@ -18,15 +18,15 @@
 }
 
 .submitButton:hover {
-  background-color: #45a049;
+  background-color: green;
 }
 
 .inputError {
-  border: 1px solid red;
+  border: 1px solid darkred;
 }
 
 .error {
-  color: red;
+  color: darkred;
   font-size: 16px;
   margin-top: 4px;
 }

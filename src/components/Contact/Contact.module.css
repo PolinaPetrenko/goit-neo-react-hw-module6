@@ -14,26 +14,26 @@
   width: 296px;
   padding: 10px;
   border-radius: 5px;
-  background-color: #f9f9f9;
-  border: 1px solid #ddd;
+  background-color: white;
+  border: 1px solid gray;
   transition: 0.3s ease-in-out;
 }
 
 .contactItem:hover {
-  background-color: #e3e3e3;
+  background-color: lightgrey;
 }
 
 .contactName {
   font-weight: bold;
-  color: #333;
+  color: darkolivegreen;
 }
 
 .contactNumber {
-  color: #666;
+  color: darkgrey;
 }
 
 .deleteButton {
-  border: 1px solid #ddd;
+  border: 1px solid white;
 }
 
 .contactIcon,
